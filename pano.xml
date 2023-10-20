@@ -42,7 +42,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구없음" latitude="" source="" nodeid="node1" info="74A" title="거실" author="" comment="거실1" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구없음" latitude="" source="" nodeid="node1" info="74A" title="거실" author="" comment="거실" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -618,7 +618,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node21" info="74A" title="거실" author="" comment="거실1" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node21" info="74A" title="거실" author="" comment="거실" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -680,7 +680,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node22" info="74A" title="복도" author="" comment="복도1" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node22" info="74A" title="복도" author="" comment="복도" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -771,7 +771,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구없음" latitude="" source="" nodeid="node34" info="74A" title="욕실2" author="" comment="욕실2" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node34" info="74A" title="욕실2" author="" comment="욕실2" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -914,7 +914,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node25" info="74A" title="침실1" author="" comment="침실1-1" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node25" info="74A" title="침실1" author="" comment="침실1" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -1054,7 +1054,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node38" info="74A" title="침실2" author="" comment="침실2-1" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node38" info="74A" title="침실2" author="" comment="침실2" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>
@@ -1081,7 +1081,7 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" scaletofit="1" pan="360" fov="140" fovstereographic="330" tilt="90"/>
     </view>
-    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node37" info="74A" title="침실2" author="" comment="침실2-2" customnodeid="" description="1층" longitude="" heading="0"/>
+    <userdata copyright="" datetime="" tags="가구있음" latitude="" source="" nodeid="node37" info="74A" title="침실2" author="" comment="침실2-1" customnodeid="" description="1층" longitude="" heading="0"/>
     <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
       <label height="20" bordercolor="0x000000" wordwrap="1" textcolor="0x000000" background="1" width="180" border="1" textalpha="1" borderradius="1" backgroundalpha="1" borderalpha="1" enabled="1" backgroundcolor="0xffffff"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff"/>

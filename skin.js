@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ??on:off_coohome.ggsk
-// Generated 2023-10-20T11:51:37
+// Generated 2023-10-20T12:56:49
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_catagory', 2, false, { ignoreInState: 0  });
@@ -13619,7 +13619,7 @@ function pano2vrSkin(player,base) {
 		me.__74aon.ggUpdatePosition=function (useTransition) {
 		}
 		el=me.__74aon8=document.createElement('div');
-		el.ggMarkerNodeId='{node30}';
+		el.ggMarkerNodeId='{node31}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\ud604\uad00";
@@ -13648,7 +13648,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon8.onclick=function (e) {
-			player.openNext('{node30}');
+			player.openNext('{node31}');
 		}
 		me.__74aon8.ggUpdatePosition=function (useTransition) {
 			me.__74aon8__normalInst.ggEvent_sizechanged();
@@ -13730,7 +13730,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon24);
 		el=me.__74aon6=document.createElement('div');
-		el.ggMarkerNodeId='{node32}';
+		el.ggMarkerNodeId='{node21}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uac70\uc2e4";
@@ -13759,7 +13759,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon6.onclick=function (e) {
-			player.openNext('{node32}');
+			player.openNext('{node21}');
 		}
 		me.__74aon6.ggUpdatePosition=function (useTransition) {
 			me.__74aon6__normalInst.ggEvent_sizechanged();
@@ -13767,7 +13767,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon6);
 		el=me.__74aon23=document.createElement('div');
-		el.ggMarkerNodeId='{node21}';
+		el.ggMarkerNodeId='{node32}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uac70\uc2e42";
@@ -13796,7 +13796,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon23.onclick=function (e) {
-			player.openNext('{node21}');
+			player.openNext('{node32}');
 		}
 		me.__74aon23.ggUpdatePosition=function (useTransition) {
 			me.__74aon23__normalInst.ggEvent_sizechanged();
@@ -13804,7 +13804,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon23);
 		el=me.__74aon11=document.createElement('div');
-		el.ggMarkerNodeId='{node43}';
+		el.ggMarkerNodeId='{node41}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uc695\uc2e41";
@@ -13833,7 +13833,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon11.onclick=function (e) {
-			player.openNext('{node43}');
+			player.openNext('{node41}');
 		}
 		me.__74aon11.ggUpdatePosition=function (useTransition) {
 			me.__74aon11__normalInst.ggEvent_sizechanged();
@@ -13878,7 +13878,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon22);
 		el=me.__74aon5=document.createElement('div');
-		el.ggMarkerNodeId='{node31}';
+		el.ggMarkerNodeId='{node30}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uc8fc\ubc29";
@@ -13907,7 +13907,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon5.onclick=function (e) {
-			player.openNext('{node31}');
+			player.openNext('{node30}');
 		}
 		me.__74aon5.ggUpdatePosition=function (useTransition) {
 			me.__74aon5__normalInst.ggEvent_sizechanged();
@@ -13989,7 +13989,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon30);
 		el=me.__74aon4=document.createElement('div');
-		el.ggMarkerNodeId='{node35}';
+		el.ggMarkerNodeId='{node36}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\ud32c\ud2b8\ub9ac";
@@ -14018,7 +14018,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon4.onclick=function (e) {
-			player.openNext('{node35}');
+			player.openNext('{node36}');
 		}
 		me.__74aon4.ggUpdatePosition=function (useTransition) {
 			me.__74aon4__normalInst.ggEvent_sizechanged();
@@ -14174,7 +14174,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon1);
 		el=me.__74aon0=document.createElement('div');
-		el.ggMarkerNodeId='{node36}';
+		el.ggMarkerNodeId='{node35}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\ub4dc\ub808\uc2a4\ub8f8";
@@ -14203,7 +14203,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon0.onclick=function (e) {
-			player.openNext('{node36}');
+			player.openNext('{node35}');
 		}
 		me.__74aon0.ggUpdatePosition=function (useTransition) {
 			me.__74aon0__normalInst.ggEvent_sizechanged();
@@ -14211,7 +14211,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon0);
 		el=me.__74aon2=document.createElement('div');
-		el.ggMarkerNodeId='{node40}';
+		el.ggMarkerNodeId='{node38}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uce68\uc2e42";
@@ -14240,7 +14240,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon2.onclick=function (e) {
-			player.openNext('{node40}');
+			player.openNext('{node38}');
 		}
 		me.__74aon2.ggUpdatePosition=function (useTransition) {
 			me.__74aon2__normalInst.ggEvent_sizechanged();
@@ -14248,7 +14248,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon2);
 		el=me.__74aon21=document.createElement('div');
-		el.ggMarkerNodeId='{node39}';
+		el.ggMarkerNodeId='{node37}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uce68\uc2e42-1";
@@ -14277,7 +14277,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon21.onclick=function (e) {
-			player.openNext('{node39}');
+			player.openNext('{node37}');
 		}
 		me.__74aon21.ggUpdatePosition=function (useTransition) {
 			me.__74aon21__normalInst.ggEvent_sizechanged();
@@ -14285,7 +14285,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon21);
 		el=me.__74aon3=document.createElement('div');
-		el.ggMarkerNodeId='{node42}';
+		el.ggMarkerNodeId='{node40}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uce68\uc2e43";
@@ -14314,7 +14314,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon3.onclick=function (e) {
-			player.openNext('{node42}');
+			player.openNext('{node40}');
 		}
 		me.__74aon3.ggUpdatePosition=function (useTransition) {
 			me.__74aon3__normalInst.ggEvent_sizechanged();
@@ -14322,7 +14322,7 @@ function pano2vrSkin(player,base) {
 		}
 		me.__74aon.appendChild(me.__74aon3);
 		el=me.__74aon31=document.createElement('div');
-		el.ggMarkerNodeId='{node41}';
+		el.ggMarkerNodeId='{node39}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
 		el.ggId="74a-on-\uce68\uc2e43-1";
@@ -14351,7 +14351,7 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74aon31.onclick=function (e) {
-			player.openNext('{node41}');
+			player.openNext('{node39}');
 		}
 		me.__74aon31.ggUpdatePosition=function (useTransition) {
 			me.__74aon31__normalInst.ggEvent_sizechanged();
@@ -19440,26 +19440,26 @@ function pano2vrSkin(player,base) {
 		me.__74amon.logicBlock_visible();
 		me.__74amon.ggUpdatePosition=function (useTransition) {
 		}
-		el=me.__74amon8=document.createElement('div');
-		el.ggMarkerNodeId='{node30}';
+		el=me.__74amon310=document.createElement('div');
+		el.ggMarkerNodeId='{node39}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ud604\uad00";
+		el.ggId="74A-m-on-\uce68\uc2e43-1";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 24px;';
+		hs+='left : 12px;';
 		hs+='position : absolute;';
-		hs+='top : 45px;';
+		hs+='top : 26px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon8.ggIsActive=function() {
+		me.__74amon310.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -19469,19 +19469,56 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon8.onclick=function (e) {
-			player.openNext('{node30}');
+		me.__74amon310.onclick=function (e) {
+			player.openNext('{node39}');
 		}
-		me.__74amon8.ggUpdatePosition=function (useTransition) {
-			me.__74amon8__normalInst.ggEvent_sizechanged();
-			me.__74amon8__activeInst.ggEvent_sizechanged();
+		me.__74amon310.ggUpdatePosition=function (useTransition) {
+			me.__74amon310__normalInst.ggEvent_sizechanged();
+			me.__74amon310__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon8);
-		el=me.__74amon7=document.createElement('div');
-		el.ggMarkerNodeId='{node22}';
+		me.__74amon.appendChild(me.__74amon310);
+		el=me.__74amon31=document.createElement('div');
+		el.ggMarkerNodeId='{node40}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ubcf5\ub3c4";
+		el.ggId="74A-m-on-\uce68\uc2e43";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 22px;';
+		hs+='position : absolute;';
+		hs+='top : 30px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon31.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon31.onclick=function (e) {
+			player.openNext('{node40}');
+		}
+		me.__74amon31.ggUpdatePosition=function (useTransition) {
+			me.__74amon31__normalInst.ggEvent_sizechanged();
+			me.__74amon31__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon31);
+		el=me.__74amon210=document.createElement('div');
+		el.ggMarkerNodeId='{node37}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\uce68\uc2e42-1";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
@@ -19490,87 +19527,13 @@ function pano2vrSkin(player,base) {
 		hs+='height : 0px;';
 		hs+='left : 31px;';
 		hs+='position : absolute;';
-		hs+='top : 37px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon7.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon7.onclick=function (e) {
-			player.openNext('{node22}');
-		}
-		me.__74amon7.ggUpdatePosition=function (useTransition) {
-			me.__74amon7__normalInst.ggEvent_sizechanged();
-			me.__74amon7__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon7);
-		el=me.__74amon24=document.createElement('div');
-		el.ggMarkerNodeId='{node24}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ubcf5\ub3c42";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 47px;';
-		hs+='position : absolute;';
-		hs+='top : 37px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon24.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon24.onclick=function (e) {
-			player.openNext('{node24}');
-		}
-		me.__74amon24.ggUpdatePosition=function (useTransition) {
-			me.__74amon24__normalInst.ggEvent_sizechanged();
-			me.__74amon24__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon24);
-		el=me.__74amon6=document.createElement('div');
-		el.ggMarkerNodeId='{node32}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uac70\uc2e4";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 63px;';
-		hs+='position : absolute;';
 		hs+='top : 23px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon6.ggIsActive=function() {
+		me.__74amon210.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -19580,28 +19543,28 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon6.onclick=function (e) {
-			player.openNext('{node32}');
+		me.__74amon210.onclick=function (e) {
+			player.openNext('{node37}');
 		}
-		me.__74amon6.ggUpdatePosition=function (useTransition) {
-			me.__74amon6__normalInst.ggEvent_sizechanged();
-			me.__74amon6__activeInst.ggEvent_sizechanged();
+		me.__74amon210.ggUpdatePosition=function (useTransition) {
+			me.__74amon210__normalInst.ggEvent_sizechanged();
+			me.__74amon210__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon6);
+		me.__74amon.appendChild(me.__74amon210);
 		el=me.__74amon23=document.createElement('div');
-		el.ggMarkerNodeId='{node21}';
+		el.ggMarkerNodeId='{node38}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uac70\uc2e42";
+		el.ggId="74A-m-on-\uce68\uc2e42";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 47px;';
+		hs+='left : 40px;';
 		hs+='position : absolute;';
-		hs+='top : 23px;';
+		hs+='top : 31px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
@@ -19618,136 +19581,25 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74amon23.onclick=function (e) {
-			player.openNext('{node21}');
+			player.openNext('{node38}');
 		}
 		me.__74amon23.ggUpdatePosition=function (useTransition) {
 			me.__74amon23__normalInst.ggEvent_sizechanged();
 			me.__74amon23__activeInst.ggEvent_sizechanged();
 		}
 		me.__74amon.appendChild(me.__74amon23);
-		el=me.__74amon11=document.createElement('div');
-		el.ggMarkerNodeId='{node43}';
+		el=me.__74amon7=document.createElement('div');
+		el.ggMarkerNodeId='{node35}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uc695\uc2e41";
+		el.ggId="74A-m-on-\ub4dc\ub808\uc2a4\ub8f8";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 15px;';
-		hs+='position : absolute;';
-		hs+='top : 39px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon11.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon11.onclick=function (e) {
-			player.openNext('{node43}');
-		}
-		me.__74amon11.ggUpdatePosition=function (useTransition) {
-			me.__74amon11__normalInst.ggEvent_sizechanged();
-			me.__74amon11__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon11);
-		el=me.__74amon22=document.createElement('div');
-		el.ggMarkerNodeId='{node34}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uc695\uc2e42";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 73px;';
-		hs+='position : absolute;';
-		hs+='top : 46px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon22.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon22.onclick=function (e) {
-			player.openNext('{node34}');
-		}
-		me.__74amon22.ggUpdatePosition=function (useTransition) {
-			me.__74amon22__normalInst.ggEvent_sizechanged();
-			me.__74amon22__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon22);
-		el=me.__74amon5=document.createElement('div');
-		el.ggMarkerNodeId='{node31}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uc8fc\ubc29";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 54px;';
-		hs+='position : absolute;';
-		hs+='top : 52px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon5.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon5.onclick=function (e) {
-			player.openNext('{node31}');
-		}
-		me.__74amon5.ggUpdatePosition=function (useTransition) {
-			me.__74amon5__normalInst.ggEvent_sizechanged();
-			me.__74amon5__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon5);
-		el=me.__74amon20=document.createElement('div');
-		el.ggMarkerNodeId='{node28}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uc8fc\ubc292";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 62px;';
+		hs+='left : 84px;';
 		hs+='position : absolute;';
 		hs+='top : 50px;';
 		hs+='visibility : inherit;';
@@ -19755,7 +19607,7 @@ function pano2vrSkin(player,base) {
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon20.ggIsActive=function() {
+		me.__74amon7.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -19765,108 +19617,34 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon20.onclick=function (e) {
-			player.openNext('{node28}');
-		}
-		me.__74amon20.ggUpdatePosition=function (useTransition) {
-			me.__74amon20__normalInst.ggEvent_sizechanged();
-			me.__74amon20__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon20);
-		el=me.__74amon30=document.createElement('div');
-		el.ggMarkerNodeId='{node29}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uc8fc\ubc293";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 46px;';
-		hs+='position : absolute;';
-		hs+='top : 46px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon30.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon30.onclick=function (e) {
-			player.openNext('{node29}');
-		}
-		me.__74amon30.ggUpdatePosition=function (useTransition) {
-			me.__74amon30__normalInst.ggEvent_sizechanged();
-			me.__74amon30__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon30);
-		el=me.__74amon4=document.createElement('div');
-		el.ggMarkerNodeId='{node35}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ucc48\ud2b8\ub9ac";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 37px;';
-		hs+='position : absolute;';
-		hs+='top : 45px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon4.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon4.onclick=function (e) {
+		me.__74amon7.onclick=function (e) {
 			player.openNext('{node35}');
 		}
-		me.__74amon4.ggUpdatePosition=function (useTransition) {
-			me.__74amon4__normalInst.ggEvent_sizechanged();
-			me.__74amon4__activeInst.ggEvent_sizechanged();
+		me.__74amon7.ggUpdatePosition=function (useTransition) {
+			me.__74amon7__normalInst.ggEvent_sizechanged();
+			me.__74amon7__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon4);
-		el=me.__74amon10=document.createElement('div');
-		el.ggMarkerNodeId='{node25}';
+		me.__74amon.appendChild(me.__74amon7);
+		el=me.__74amon6=document.createElement('div');
+		el.ggMarkerNodeId='{node33}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e41";
+		el.ggId="74A-m-on-\ud30c\uc6b0\ub354\ub8f8";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 74px;';
+		hs+='left : 83px;';
 		hs+='position : absolute;';
-		hs+='top : 27px;';
+		hs+='top : 43px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon10.ggIsActive=function() {
+		me.__74amon6.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -19876,51 +19654,14 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon10.onclick=function (e) {
-			player.openNext('{node25}');
+		me.__74amon6.onclick=function (e) {
+			player.openNext('{node33}');
 		}
-		me.__74amon10.ggUpdatePosition=function (useTransition) {
-			me.__74amon10__normalInst.ggEvent_sizechanged();
-			me.__74amon10__activeInst.ggEvent_sizechanged();
+		me.__74amon6.ggUpdatePosition=function (useTransition) {
+			me.__74amon6__normalInst.ggEvent_sizechanged();
+			me.__74amon6__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon10);
-		el=me.__74amon12=document.createElement('div');
-		el.ggMarkerNodeId='{node23}';
-		el.ggMarkerInstances = [];
-		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e41-2";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_mark ";
-		el.ggType='mark';
-		hs ='';
-		hs+='height : 0px;';
-		hs+='left : 86px;';
-		hs+='position : absolute;';
-		hs+='top : 35px;';
-		hs+='visibility : inherit;';
-		hs+='width : 0px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me.__74amon12.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		el.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') { // }
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		me.__74amon12.onclick=function (e) {
-			player.openNext('{node23}');
-		}
-		me.__74amon12.ggUpdatePosition=function (useTransition) {
-			me.__74amon12__normalInst.ggEvent_sizechanged();
-			me.__74amon12__activeInst.ggEvent_sizechanged();
-		}
-		me.__74amon.appendChild(me.__74amon12);
+		me.__74amon.appendChild(me.__74amon6);
 		el=me.__74amon13=document.createElement('div');
 		el.ggMarkerNodeId='{node23}';
 		el.ggMarkerInstances = [];
@@ -19958,26 +19699,26 @@ function pano2vrSkin(player,base) {
 			me.__74amon13__activeInst.ggEvent_sizechanged();
 		}
 		me.__74amon.appendChild(me.__74amon13);
-		el=me.__74amon1=document.createElement('div');
-		el.ggMarkerNodeId='{node33}';
+		el=me.__74amon12=document.createElement('div');
+		el.ggMarkerNodeId='{node26}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ud30c\uc6b0\ub354\ub8f8";
+		el.ggId="74A-m-on-\uce68\uc2e41-2";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 83px;';
+		hs+='left : 86px;';
 		hs+='position : absolute;';
-		hs+='top : 43px;';
+		hs+='top : 35px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon1.ggIsActive=function() {
+		me.__74amon12.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -19987,26 +19728,137 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon1.onclick=function (e) {
-			player.openNext('{node33}');
+		me.__74amon12.onclick=function (e) {
+			player.openNext('{node26}');
 		}
-		me.__74amon1.ggUpdatePosition=function (useTransition) {
-			me.__74amon1__normalInst.ggEvent_sizechanged();
-			me.__74amon1__activeInst.ggEvent_sizechanged();
+		me.__74amon12.ggUpdatePosition=function (useTransition) {
+			me.__74amon12__normalInst.ggEvent_sizechanged();
+			me.__74amon12__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon1);
-		el=me.__74amon0=document.createElement('div');
-		el.ggMarkerNodeId='{node36}';
+		me.__74amon.appendChild(me.__74amon12);
+		el=me.__74amon11=document.createElement('div');
+		el.ggMarkerNodeId='{node25}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\ub4dc\ub808\uc2a4\ub8f8";
+		el.ggId="74A-m-on-\uce68\uc2e41";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 84px;';
+		hs+='left : 74px;';
+		hs+='position : absolute;';
+		hs+='top : 27px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon11.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon11.onclick=function (e) {
+			player.openNext('{node25}');
+		}
+		me.__74amon11.ggUpdatePosition=function (useTransition) {
+			me.__74amon11__normalInst.ggEvent_sizechanged();
+			me.__74amon11__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon11);
+		el=me.__74amon5=document.createElement('div');
+		el.ggMarkerNodeId='{node36}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\ucc48\ud2b8\ub9ac";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 37px;';
+		hs+='position : absolute;';
+		hs+='top : 45px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon5.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon5.onclick=function (e) {
+			player.openNext('{node36}');
+		}
+		me.__74amon5.ggUpdatePosition=function (useTransition) {
+			me.__74amon5__normalInst.ggEvent_sizechanged();
+			me.__74amon5__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon5);
+		el=me.__74amon30=document.createElement('div');
+		el.ggMarkerNodeId='{node29}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\uc8fc\ubc293";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 46px;';
+		hs+='position : absolute;';
+		hs+='top : 46px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon30.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon30.onclick=function (e) {
+			player.openNext('{node29}');
+		}
+		me.__74amon30.ggUpdatePosition=function (useTransition) {
+			me.__74amon30__normalInst.ggEvent_sizechanged();
+			me.__74amon30__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon30);
+		el=me.__74amon22=document.createElement('div');
+		el.ggMarkerNodeId='{node28}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\uc8fc\ubc292";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 62px;';
 		hs+='position : absolute;';
 		hs+='top : 50px;';
 		hs+='visibility : inherit;';
@@ -20014,7 +19866,7 @@ function pano2vrSkin(player,base) {
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon0.ggIsActive=function() {
+		me.__74amon22.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -20024,34 +19876,34 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon0.onclick=function (e) {
-			player.openNext('{node36}');
+		me.__74amon22.onclick=function (e) {
+			player.openNext('{node28}');
 		}
-		me.__74amon0.ggUpdatePosition=function (useTransition) {
-			me.__74amon0__normalInst.ggEvent_sizechanged();
-			me.__74amon0__activeInst.ggEvent_sizechanged();
+		me.__74amon22.ggUpdatePosition=function (useTransition) {
+			me.__74amon22__normalInst.ggEvent_sizechanged();
+			me.__74amon22__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon0);
-		el=me.__74amon2=document.createElement('div');
-		el.ggMarkerNodeId='{node40}';
+		me.__74amon.appendChild(me.__74amon22);
+		el=me.__74amon4=document.createElement('div');
+		el.ggMarkerNodeId='{node30}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e42";
+		el.ggId="74A-m-on-\uc8fc\ubc29";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 40px;';
+		hs+='left : 54px;';
 		hs+='position : absolute;';
-		hs+='top : 31px;';
+		hs+='top : 52px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon2.ggIsActive=function() {
+		me.__74amon4.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -20061,28 +19913,28 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon2.onclick=function (e) {
-			player.openNext('{node40}');
+		me.__74amon4.onclick=function (e) {
+			player.openNext('{node30}');
 		}
-		me.__74amon2.ggUpdatePosition=function (useTransition) {
-			me.__74amon2__normalInst.ggEvent_sizechanged();
-			me.__74amon2__activeInst.ggEvent_sizechanged();
+		me.__74amon4.ggUpdatePosition=function (useTransition) {
+			me.__74amon4__normalInst.ggEvent_sizechanged();
+			me.__74amon4__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon2);
+		me.__74amon.appendChild(me.__74amon4);
 		el=me.__74amon21=document.createElement('div');
-		el.ggMarkerNodeId='{node39}';
+		el.ggMarkerNodeId='{node34}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e42-1";
+		el.ggId="74A-m-on-\uc695\uc2e42";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 31px;';
+		hs+='left : 73px;';
 		hs+='position : absolute;';
-		hs+='top : 23px;';
+		hs+='top : 46px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
@@ -20099,27 +19951,101 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74amon21.onclick=function (e) {
-			player.openNext('{node39}');
+			player.openNext('{node34}');
 		}
 		me.__74amon21.ggUpdatePosition=function (useTransition) {
 			me.__74amon21__normalInst.ggEvent_sizechanged();
 			me.__74amon21__activeInst.ggEvent_sizechanged();
 		}
 		me.__74amon.appendChild(me.__74amon21);
-		el=me.__74amon3=document.createElement('div');
-		el.ggMarkerNodeId='{node42}';
+		el=me.__74amon10=document.createElement('div');
+		el.ggMarkerNodeId='{node41}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e43";
+		el.ggId="74A-m-on-\uc695\uc2e41";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 22px;';
+		hs+='left : 15px;';
 		hs+='position : absolute;';
-		hs+='top : 30px;';
+		hs+='top : 39px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon10.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon10.onclick=function (e) {
+			player.openNext('{node41}');
+		}
+		me.__74amon10.ggUpdatePosition=function (useTransition) {
+			me.__74amon10__normalInst.ggEvent_sizechanged();
+			me.__74amon10__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon10);
+		el=me.__74amon20=document.createElement('div');
+		el.ggMarkerNodeId='{node32}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\uac70\uc2e42";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 47px;';
+		hs+='position : absolute;';
+		hs+='top : 23px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon20.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon20.onclick=function (e) {
+			player.openNext('{node32}');
+		}
+		me.__74amon20.ggUpdatePosition=function (useTransition) {
+			me.__74amon20__normalInst.ggEvent_sizechanged();
+			me.__74amon20__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon20);
+		el=me.__74amon3=document.createElement('div');
+		el.ggMarkerNodeId='{node21}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\uac70\uc2e4";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 63px;';
+		hs+='position : absolute;';
+		hs+='top : 23px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
@@ -20136,33 +20062,33 @@ function pano2vrSkin(player,base) {
 			return '';
 		}
 		me.__74amon3.onclick=function (e) {
-			player.openNext('{node42}');
+			player.openNext('{node21}');
 		}
 		me.__74amon3.ggUpdatePosition=function (useTransition) {
 			me.__74amon3__normalInst.ggEvent_sizechanged();
 			me.__74amon3__activeInst.ggEvent_sizechanged();
 		}
 		me.__74amon.appendChild(me.__74amon3);
-		el=me.__74amon31=document.createElement('div');
-		el.ggMarkerNodeId='{node41}';
+		el=me.__74amon2=document.createElement('div');
+		el.ggMarkerNodeId='{node24}';
 		el.ggMarkerInstances = [];
 		nodeMarker.push(el);
-		el.ggId="74A-m-on-\uce68\uc2e43-1";
+		el.ggId="74A-m-on-\ubcf5\ub3c42";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_mark ";
 		el.ggType='mark';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 12px;';
+		hs+='left : 47px;';
 		hs+='position : absolute;';
-		hs+='top : 26px;';
+		hs+='top : 37px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
-		me.__74amon31.ggIsActive=function() {
+		me.__74amon2.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
 		el.ggElementNodeId=function() {
@@ -20172,14 +20098,88 @@ function pano2vrSkin(player,base) {
 			}
 			return '';
 		}
-		me.__74amon31.onclick=function (e) {
-			player.openNext('{node41}');
+		me.__74amon2.onclick=function (e) {
+			player.openNext('{node24}');
 		}
-		me.__74amon31.ggUpdatePosition=function (useTransition) {
-			me.__74amon31__normalInst.ggEvent_sizechanged();
-			me.__74amon31__activeInst.ggEvent_sizechanged();
+		me.__74amon2.ggUpdatePosition=function (useTransition) {
+			me.__74amon2__normalInst.ggEvent_sizechanged();
+			me.__74amon2__activeInst.ggEvent_sizechanged();
 		}
-		me.__74amon.appendChild(me.__74amon31);
+		me.__74amon.appendChild(me.__74amon2);
+		el=me.__74amon1=document.createElement('div');
+		el.ggMarkerNodeId='{node22}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\ubcf5\ub3c4";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 31px;';
+		hs+='position : absolute;';
+		hs+='top : 37px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon1.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon1.onclick=function (e) {
+			player.openNext('{node22}');
+		}
+		me.__74amon1.ggUpdatePosition=function (useTransition) {
+			me.__74amon1__normalInst.ggEvent_sizechanged();
+			me.__74amon1__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon1);
+		el=me.__74amon0=document.createElement('div');
+		el.ggMarkerNodeId='{node31}';
+		el.ggMarkerInstances = [];
+		nodeMarker.push(el);
+		el.ggId="74A-m-on-\ud604\uad00";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_mark ";
+		el.ggType='mark';
+		hs ='';
+		hs+='height : 0px;';
+		hs+='left : 24px;';
+		hs+='position : absolute;';
+		hs+='top : 45px;';
+		hs+='visibility : inherit;';
+		hs+='width : 0px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me.__74amon0.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		el.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') { // }
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		me.__74amon0.onclick=function (e) {
+			player.openNext('{node31}');
+		}
+		me.__74amon0.ggUpdatePosition=function (useTransition) {
+			me.__74amon0__normalInst.ggEvent_sizechanged();
+			me.__74amon0__activeInst.ggEvent_sizechanged();
+		}
+		me.__74amon.appendChild(me.__74amon0);
 		me.__22.appendChild(me.__74amon);
 		me.__19.appendChild(me.__22);
 		me.divSkin.appendChild(me.__19);
@@ -29134,121 +29134,92 @@ function pano2vrSkin(player,base) {
 			me.__74amoff31.ggMarkerInstances.push(me.__74amoff31.childNodes[i]);
 		}
 		me.__74amon.logicBlock_visible();
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon8);
-		me.__74amon8__normal = clonedNormalElement._map_pin;
-		me.__74amon8__normalInst = clonedNormalElement;
-		me.__74amon8__normal.style.visibility='inherit';
-		me.__74amon8__normal.style.left='-12px';
-		me.__74amon8__normal.style.top='-41px';
-		me.__74amon8.ggMarkerNormal=me.__74amon8__normal;
-		me.__74amon8.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon8);
-		me.__74amon8__active = clonedActiveElement._map_pin;
-		me.__74amon8__activeInst = clonedActiveElement;
-		me.__74amon8__active.style.visibility='hidden';
-		me.__74amon8__active.style.left='-12px';
-		me.__74amon8__active.style.top='-41px';
-		me.__74amon8.ggMarkerActive=me.__74amon8__active;
-		me.__74amon8.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon8.firstChild) {
-			me.__74amon8.insertBefore(me.__74amon8__active,me.__74amon8.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon310);
+		me.__74amon310__normal = clonedNormalElement._map_pin;
+		me.__74amon310__normalInst = clonedNormalElement;
+		me.__74amon310__normal.style.visibility='inherit';
+		me.__74amon310__normal.style.left='-12px';
+		me.__74amon310__normal.style.top='-41px';
+		me.__74amon310.ggMarkerNormal=me.__74amon310__normal;
+		me.__74amon310.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon310);
+		me.__74amon310__active = clonedActiveElement._map_pin;
+		me.__74amon310__activeInst = clonedActiveElement;
+		me.__74amon310__active.style.visibility='hidden';
+		me.__74amon310__active.style.left='-12px';
+		me.__74amon310__active.style.top='-41px';
+		me.__74amon310.ggMarkerActive=me.__74amon310__active;
+		me.__74amon310.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon310.firstChild) {
+			me.__74amon310.insertBefore(me.__74amon310__active,me.__74amon310.firstChild);
 		} else {
-			me.__74amon8.appendChild(me.__74amon8__active);
+			me.__74amon310.appendChild(me.__74amon310__active);
 		}
-		if (me.__74amon8.firstChild) {
-			me.__74amon8.insertBefore(me.__74amon8__normal,me.__74amon8.firstChild);
+		if (me.__74amon310.firstChild) {
+			me.__74amon310.insertBefore(me.__74amon310__normal,me.__74amon310.firstChild);
 		} else {
-			me.__74amon8.appendChild(me.__74amon8__normal);
+			me.__74amon310.appendChild(me.__74amon310__normal);
 		}
-		for (var i = 0; i < me.__74amon8.childNodes.length; i++) {
-			me.__74amon8.ggMarkerInstances.push(me.__74amon8.childNodes[i]);
+		for (var i = 0; i < me.__74amon310.childNodes.length; i++) {
+			me.__74amon310.ggMarkerInstances.push(me.__74amon310.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon7);
-		me.__74amon7__normal = clonedNormalElement._map_pin;
-		me.__74amon7__normalInst = clonedNormalElement;
-		me.__74amon7__normal.style.visibility='inherit';
-		me.__74amon7__normal.style.left='-12px';
-		me.__74amon7__normal.style.top='-41px';
-		me.__74amon7.ggMarkerNormal=me.__74amon7__normal;
-		me.__74amon7.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon7);
-		me.__74amon7__active = clonedActiveElement._map_pin;
-		me.__74amon7__activeInst = clonedActiveElement;
-		me.__74amon7__active.style.visibility='hidden';
-		me.__74amon7__active.style.left='-12px';
-		me.__74amon7__active.style.top='-41px';
-		me.__74amon7.ggMarkerActive=me.__74amon7__active;
-		me.__74amon7.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon7.firstChild) {
-			me.__74amon7.insertBefore(me.__74amon7__active,me.__74amon7.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon31);
+		me.__74amon31__normal = clonedNormalElement._map_pin;
+		me.__74amon31__normalInst = clonedNormalElement;
+		me.__74amon31__normal.style.visibility='inherit';
+		me.__74amon31__normal.style.left='-12px';
+		me.__74amon31__normal.style.top='-41px';
+		me.__74amon31.ggMarkerNormal=me.__74amon31__normal;
+		me.__74amon31.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon31);
+		me.__74amon31__active = clonedActiveElement._map_pin;
+		me.__74amon31__activeInst = clonedActiveElement;
+		me.__74amon31__active.style.visibility='hidden';
+		me.__74amon31__active.style.left='-12px';
+		me.__74amon31__active.style.top='-41px';
+		me.__74amon31.ggMarkerActive=me.__74amon31__active;
+		me.__74amon31.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon31.firstChild) {
+			me.__74amon31.insertBefore(me.__74amon31__active,me.__74amon31.firstChild);
 		} else {
-			me.__74amon7.appendChild(me.__74amon7__active);
+			me.__74amon31.appendChild(me.__74amon31__active);
 		}
-		if (me.__74amon7.firstChild) {
-			me.__74amon7.insertBefore(me.__74amon7__normal,me.__74amon7.firstChild);
+		if (me.__74amon31.firstChild) {
+			me.__74amon31.insertBefore(me.__74amon31__normal,me.__74amon31.firstChild);
 		} else {
-			me.__74amon7.appendChild(me.__74amon7__normal);
+			me.__74amon31.appendChild(me.__74amon31__normal);
 		}
-		for (var i = 0; i < me.__74amon7.childNodes.length; i++) {
-			me.__74amon7.ggMarkerInstances.push(me.__74amon7.childNodes[i]);
+		for (var i = 0; i < me.__74amon31.childNodes.length; i++) {
+			me.__74amon31.ggMarkerInstances.push(me.__74amon31.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon24);
-		me.__74amon24__normal = clonedNormalElement._map_pin;
-		me.__74amon24__normalInst = clonedNormalElement;
-		me.__74amon24__normal.style.visibility='inherit';
-		me.__74amon24__normal.style.left='-12px';
-		me.__74amon24__normal.style.top='-41px';
-		me.__74amon24.ggMarkerNormal=me.__74amon24__normal;
-		me.__74amon24.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon24);
-		me.__74amon24__active = clonedActiveElement._map_pin;
-		me.__74amon24__activeInst = clonedActiveElement;
-		me.__74amon24__active.style.visibility='hidden';
-		me.__74amon24__active.style.left='-12px';
-		me.__74amon24__active.style.top='-41px';
-		me.__74amon24.ggMarkerActive=me.__74amon24__active;
-		me.__74amon24.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon24.firstChild) {
-			me.__74amon24.insertBefore(me.__74amon24__active,me.__74amon24.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon210);
+		me.__74amon210__normal = clonedNormalElement._map_pin;
+		me.__74amon210__normalInst = clonedNormalElement;
+		me.__74amon210__normal.style.visibility='inherit';
+		me.__74amon210__normal.style.left='-12px';
+		me.__74amon210__normal.style.top='-41px';
+		me.__74amon210.ggMarkerNormal=me.__74amon210__normal;
+		me.__74amon210.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon210);
+		me.__74amon210__active = clonedActiveElement._map_pin;
+		me.__74amon210__activeInst = clonedActiveElement;
+		me.__74amon210__active.style.visibility='hidden';
+		me.__74amon210__active.style.left='-12px';
+		me.__74amon210__active.style.top='-41px';
+		me.__74amon210.ggMarkerActive=me.__74amon210__active;
+		me.__74amon210.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon210.firstChild) {
+			me.__74amon210.insertBefore(me.__74amon210__active,me.__74amon210.firstChild);
 		} else {
-			me.__74amon24.appendChild(me.__74amon24__active);
+			me.__74amon210.appendChild(me.__74amon210__active);
 		}
-		if (me.__74amon24.firstChild) {
-			me.__74amon24.insertBefore(me.__74amon24__normal,me.__74amon24.firstChild);
+		if (me.__74amon210.firstChild) {
+			me.__74amon210.insertBefore(me.__74amon210__normal,me.__74amon210.firstChild);
 		} else {
-			me.__74amon24.appendChild(me.__74amon24__normal);
+			me.__74amon210.appendChild(me.__74amon210__normal);
 		}
-		for (var i = 0; i < me.__74amon24.childNodes.length; i++) {
-			me.__74amon24.ggMarkerInstances.push(me.__74amon24.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon6);
-		me.__74amon6__normal = clonedNormalElement._map_pin;
-		me.__74amon6__normalInst = clonedNormalElement;
-		me.__74amon6__normal.style.visibility='inherit';
-		me.__74amon6__normal.style.left='-12px';
-		me.__74amon6__normal.style.top='-41px';
-		me.__74amon6.ggMarkerNormal=me.__74amon6__normal;
-		me.__74amon6.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon6);
-		me.__74amon6__active = clonedActiveElement._map_pin;
-		me.__74amon6__activeInst = clonedActiveElement;
-		me.__74amon6__active.style.visibility='hidden';
-		me.__74amon6__active.style.left='-12px';
-		me.__74amon6__active.style.top='-41px';
-		me.__74amon6.ggMarkerActive=me.__74amon6__active;
-		me.__74amon6.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon6.firstChild) {
-			me.__74amon6.insertBefore(me.__74amon6__active,me.__74amon6.firstChild);
-		} else {
-			me.__74amon6.appendChild(me.__74amon6__active);
-		}
-		if (me.__74amon6.firstChild) {
-			me.__74amon6.insertBefore(me.__74amon6__normal,me.__74amon6.firstChild);
-		} else {
-			me.__74amon6.appendChild(me.__74amon6__normal);
-		}
-		for (var i = 0; i < me.__74amon6.childNodes.length; i++) {
-			me.__74amon6.ggMarkerInstances.push(me.__74amon6.childNodes[i]);
+		for (var i = 0; i < me.__74amon210.childNodes.length; i++) {
+			me.__74amon210.ggMarkerInstances.push(me.__74amon210.childNodes[i]);
 		}
 		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon23);
 		me.__74amon23__normal = clonedNormalElement._map_pin;
@@ -29279,208 +29250,92 @@ function pano2vrSkin(player,base) {
 		for (var i = 0; i < me.__74amon23.childNodes.length; i++) {
 			me.__74amon23.ggMarkerInstances.push(me.__74amon23.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon11);
-		me.__74amon11__normal = clonedNormalElement._map_pin;
-		me.__74amon11__normalInst = clonedNormalElement;
-		me.__74amon11__normal.style.visibility='inherit';
-		me.__74amon11__normal.style.left='-12px';
-		me.__74amon11__normal.style.top='-41px';
-		me.__74amon11.ggMarkerNormal=me.__74amon11__normal;
-		me.__74amon11.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon11);
-		me.__74amon11__active = clonedActiveElement._map_pin;
-		me.__74amon11__activeInst = clonedActiveElement;
-		me.__74amon11__active.style.visibility='hidden';
-		me.__74amon11__active.style.left='-12px';
-		me.__74amon11__active.style.top='-41px';
-		me.__74amon11.ggMarkerActive=me.__74amon11__active;
-		me.__74amon11.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon11.firstChild) {
-			me.__74amon11.insertBefore(me.__74amon11__active,me.__74amon11.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon7);
+		me.__74amon7__normal = clonedNormalElement._map_pin;
+		me.__74amon7__normalInst = clonedNormalElement;
+		me.__74amon7__normal.style.visibility='inherit';
+		me.__74amon7__normal.style.left='-12px';
+		me.__74amon7__normal.style.top='-41px';
+		me.__74amon7.ggMarkerNormal=me.__74amon7__normal;
+		me.__74amon7.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon7);
+		me.__74amon7__active = clonedActiveElement._map_pin;
+		me.__74amon7__activeInst = clonedActiveElement;
+		me.__74amon7__active.style.visibility='hidden';
+		me.__74amon7__active.style.left='-12px';
+		me.__74amon7__active.style.top='-41px';
+		me.__74amon7.ggMarkerActive=me.__74amon7__active;
+		me.__74amon7.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon7.firstChild) {
+			me.__74amon7.insertBefore(me.__74amon7__active,me.__74amon7.firstChild);
 		} else {
-			me.__74amon11.appendChild(me.__74amon11__active);
+			me.__74amon7.appendChild(me.__74amon7__active);
 		}
-		if (me.__74amon11.firstChild) {
-			me.__74amon11.insertBefore(me.__74amon11__normal,me.__74amon11.firstChild);
+		if (me.__74amon7.firstChild) {
+			me.__74amon7.insertBefore(me.__74amon7__normal,me.__74amon7.firstChild);
 		} else {
-			me.__74amon11.appendChild(me.__74amon11__normal);
+			me.__74amon7.appendChild(me.__74amon7__normal);
 		}
-		for (var i = 0; i < me.__74amon11.childNodes.length; i++) {
-			me.__74amon11.ggMarkerInstances.push(me.__74amon11.childNodes[i]);
+		for (var i = 0; i < me.__74amon7.childNodes.length; i++) {
+			me.__74amon7.ggMarkerInstances.push(me.__74amon7.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon22);
-		me.__74amon22__normal = clonedNormalElement._map_pin;
-		me.__74amon22__normalInst = clonedNormalElement;
-		me.__74amon22__normal.style.visibility='inherit';
-		me.__74amon22__normal.style.left='-12px';
-		me.__74amon22__normal.style.top='-41px';
-		me.__74amon22.ggMarkerNormal=me.__74amon22__normal;
-		me.__74amon22.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon22);
-		me.__74amon22__active = clonedActiveElement._map_pin;
-		me.__74amon22__activeInst = clonedActiveElement;
-		me.__74amon22__active.style.visibility='hidden';
-		me.__74amon22__active.style.left='-12px';
-		me.__74amon22__active.style.top='-41px';
-		me.__74amon22.ggMarkerActive=me.__74amon22__active;
-		me.__74amon22.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon22.firstChild) {
-			me.__74amon22.insertBefore(me.__74amon22__active,me.__74amon22.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon6);
+		me.__74amon6__normal = clonedNormalElement._map_pin;
+		me.__74amon6__normalInst = clonedNormalElement;
+		me.__74amon6__normal.style.visibility='inherit';
+		me.__74amon6__normal.style.left='-12px';
+		me.__74amon6__normal.style.top='-41px';
+		me.__74amon6.ggMarkerNormal=me.__74amon6__normal;
+		me.__74amon6.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon6);
+		me.__74amon6__active = clonedActiveElement._map_pin;
+		me.__74amon6__activeInst = clonedActiveElement;
+		me.__74amon6__active.style.visibility='hidden';
+		me.__74amon6__active.style.left='-12px';
+		me.__74amon6__active.style.top='-41px';
+		me.__74amon6.ggMarkerActive=me.__74amon6__active;
+		me.__74amon6.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon6.firstChild) {
+			me.__74amon6.insertBefore(me.__74amon6__active,me.__74amon6.firstChild);
 		} else {
-			me.__74amon22.appendChild(me.__74amon22__active);
+			me.__74amon6.appendChild(me.__74amon6__active);
 		}
-		if (me.__74amon22.firstChild) {
-			me.__74amon22.insertBefore(me.__74amon22__normal,me.__74amon22.firstChild);
+		if (me.__74amon6.firstChild) {
+			me.__74amon6.insertBefore(me.__74amon6__normal,me.__74amon6.firstChild);
 		} else {
-			me.__74amon22.appendChild(me.__74amon22__normal);
+			me.__74amon6.appendChild(me.__74amon6__normal);
 		}
-		for (var i = 0; i < me.__74amon22.childNodes.length; i++) {
-			me.__74amon22.ggMarkerInstances.push(me.__74amon22.childNodes[i]);
+		for (var i = 0; i < me.__74amon6.childNodes.length; i++) {
+			me.__74amon6.ggMarkerInstances.push(me.__74amon6.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon5);
-		me.__74amon5__normal = clonedNormalElement._map_pin;
-		me.__74amon5__normalInst = clonedNormalElement;
-		me.__74amon5__normal.style.visibility='inherit';
-		me.__74amon5__normal.style.left='-12px';
-		me.__74amon5__normal.style.top='-41px';
-		me.__74amon5.ggMarkerNormal=me.__74amon5__normal;
-		me.__74amon5.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon5);
-		me.__74amon5__active = clonedActiveElement._map_pin;
-		me.__74amon5__activeInst = clonedActiveElement;
-		me.__74amon5__active.style.visibility='hidden';
-		me.__74amon5__active.style.left='-12px';
-		me.__74amon5__active.style.top='-41px';
-		me.__74amon5.ggMarkerActive=me.__74amon5__active;
-		me.__74amon5.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon5.firstChild) {
-			me.__74amon5.insertBefore(me.__74amon5__active,me.__74amon5.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon13);
+		me.__74amon13__normal = clonedNormalElement._map_pin;
+		me.__74amon13__normalInst = clonedNormalElement;
+		me.__74amon13__normal.style.visibility='inherit';
+		me.__74amon13__normal.style.left='-12px';
+		me.__74amon13__normal.style.top='-41px';
+		me.__74amon13.ggMarkerNormal=me.__74amon13__normal;
+		me.__74amon13.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon13);
+		me.__74amon13__active = clonedActiveElement._map_pin;
+		me.__74amon13__activeInst = clonedActiveElement;
+		me.__74amon13__active.style.visibility='hidden';
+		me.__74amon13__active.style.left='-12px';
+		me.__74amon13__active.style.top='-41px';
+		me.__74amon13.ggMarkerActive=me.__74amon13__active;
+		me.__74amon13.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon13.firstChild) {
+			me.__74amon13.insertBefore(me.__74amon13__active,me.__74amon13.firstChild);
 		} else {
-			me.__74amon5.appendChild(me.__74amon5__active);
+			me.__74amon13.appendChild(me.__74amon13__active);
 		}
-		if (me.__74amon5.firstChild) {
-			me.__74amon5.insertBefore(me.__74amon5__normal,me.__74amon5.firstChild);
+		if (me.__74amon13.firstChild) {
+			me.__74amon13.insertBefore(me.__74amon13__normal,me.__74amon13.firstChild);
 		} else {
-			me.__74amon5.appendChild(me.__74amon5__normal);
+			me.__74amon13.appendChild(me.__74amon13__normal);
 		}
-		for (var i = 0; i < me.__74amon5.childNodes.length; i++) {
-			me.__74amon5.ggMarkerInstances.push(me.__74amon5.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon20);
-		me.__74amon20__normal = clonedNormalElement._map_pin;
-		me.__74amon20__normalInst = clonedNormalElement;
-		me.__74amon20__normal.style.visibility='inherit';
-		me.__74amon20__normal.style.left='-12px';
-		me.__74amon20__normal.style.top='-41px';
-		me.__74amon20.ggMarkerNormal=me.__74amon20__normal;
-		me.__74amon20.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon20);
-		me.__74amon20__active = clonedActiveElement._map_pin;
-		me.__74amon20__activeInst = clonedActiveElement;
-		me.__74amon20__active.style.visibility='hidden';
-		me.__74amon20__active.style.left='-12px';
-		me.__74amon20__active.style.top='-41px';
-		me.__74amon20.ggMarkerActive=me.__74amon20__active;
-		me.__74amon20.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon20.firstChild) {
-			me.__74amon20.insertBefore(me.__74amon20__active,me.__74amon20.firstChild);
-		} else {
-			me.__74amon20.appendChild(me.__74amon20__active);
-		}
-		if (me.__74amon20.firstChild) {
-			me.__74amon20.insertBefore(me.__74amon20__normal,me.__74amon20.firstChild);
-		} else {
-			me.__74amon20.appendChild(me.__74amon20__normal);
-		}
-		for (var i = 0; i < me.__74amon20.childNodes.length; i++) {
-			me.__74amon20.ggMarkerInstances.push(me.__74amon20.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon30);
-		me.__74amon30__normal = clonedNormalElement._map_pin;
-		me.__74amon30__normalInst = clonedNormalElement;
-		me.__74amon30__normal.style.visibility='inherit';
-		me.__74amon30__normal.style.left='-12px';
-		me.__74amon30__normal.style.top='-41px';
-		me.__74amon30.ggMarkerNormal=me.__74amon30__normal;
-		me.__74amon30.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon30);
-		me.__74amon30__active = clonedActiveElement._map_pin;
-		me.__74amon30__activeInst = clonedActiveElement;
-		me.__74amon30__active.style.visibility='hidden';
-		me.__74amon30__active.style.left='-12px';
-		me.__74amon30__active.style.top='-41px';
-		me.__74amon30.ggMarkerActive=me.__74amon30__active;
-		me.__74amon30.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon30.firstChild) {
-			me.__74amon30.insertBefore(me.__74amon30__active,me.__74amon30.firstChild);
-		} else {
-			me.__74amon30.appendChild(me.__74amon30__active);
-		}
-		if (me.__74amon30.firstChild) {
-			me.__74amon30.insertBefore(me.__74amon30__normal,me.__74amon30.firstChild);
-		} else {
-			me.__74amon30.appendChild(me.__74amon30__normal);
-		}
-		for (var i = 0; i < me.__74amon30.childNodes.length; i++) {
-			me.__74amon30.ggMarkerInstances.push(me.__74amon30.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon4);
-		me.__74amon4__normal = clonedNormalElement._map_pin;
-		me.__74amon4__normalInst = clonedNormalElement;
-		me.__74amon4__normal.style.visibility='inherit';
-		me.__74amon4__normal.style.left='-12px';
-		me.__74amon4__normal.style.top='-41px';
-		me.__74amon4.ggMarkerNormal=me.__74amon4__normal;
-		me.__74amon4.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon4);
-		me.__74amon4__active = clonedActiveElement._map_pin;
-		me.__74amon4__activeInst = clonedActiveElement;
-		me.__74amon4__active.style.visibility='hidden';
-		me.__74amon4__active.style.left='-12px';
-		me.__74amon4__active.style.top='-41px';
-		me.__74amon4.ggMarkerActive=me.__74amon4__active;
-		me.__74amon4.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon4.firstChild) {
-			me.__74amon4.insertBefore(me.__74amon4__active,me.__74amon4.firstChild);
-		} else {
-			me.__74amon4.appendChild(me.__74amon4__active);
-		}
-		if (me.__74amon4.firstChild) {
-			me.__74amon4.insertBefore(me.__74amon4__normal,me.__74amon4.firstChild);
-		} else {
-			me.__74amon4.appendChild(me.__74amon4__normal);
-		}
-		for (var i = 0; i < me.__74amon4.childNodes.length; i++) {
-			me.__74amon4.ggMarkerInstances.push(me.__74amon4.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon10);
-		me.__74amon10__normal = clonedNormalElement._map_pin;
-		me.__74amon10__normalInst = clonedNormalElement;
-		me.__74amon10__normal.style.visibility='inherit';
-		me.__74amon10__normal.style.left='-12px';
-		me.__74amon10__normal.style.top='-41px';
-		me.__74amon10.ggMarkerNormal=me.__74amon10__normal;
-		me.__74amon10.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon10);
-		me.__74amon10__active = clonedActiveElement._map_pin;
-		me.__74amon10__activeInst = clonedActiveElement;
-		me.__74amon10__active.style.visibility='hidden';
-		me.__74amon10__active.style.left='-12px';
-		me.__74amon10__active.style.top='-41px';
-		me.__74amon10.ggMarkerActive=me.__74amon10__active;
-		me.__74amon10.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon10.firstChild) {
-			me.__74amon10.insertBefore(me.__74amon10__active,me.__74amon10.firstChild);
-		} else {
-			me.__74amon10.appendChild(me.__74amon10__active);
-		}
-		if (me.__74amon10.firstChild) {
-			me.__74amon10.insertBefore(me.__74amon10__normal,me.__74amon10.firstChild);
-		} else {
-			me.__74amon10.appendChild(me.__74amon10__normal);
-		}
-		for (var i = 0; i < me.__74amon10.childNodes.length; i++) {
-			me.__74amon10.ggMarkerInstances.push(me.__74amon10.childNodes[i]);
+		for (var i = 0; i < me.__74amon13.childNodes.length; i++) {
+			me.__74amon13.ggMarkerInstances.push(me.__74amon13.childNodes[i]);
 		}
 		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon12);
 		me.__74amon12__normal = clonedNormalElement._map_pin;
@@ -29511,34 +29366,295 @@ function pano2vrSkin(player,base) {
 		for (var i = 0; i < me.__74amon12.childNodes.length; i++) {
 			me.__74amon12.ggMarkerInstances.push(me.__74amon12.childNodes[i]);
 		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon13);
-		me.__74amon13__normal = clonedNormalElement._map_pin;
-		me.__74amon13__normalInst = clonedNormalElement;
-		me.__74amon13__normal.style.visibility='inherit';
-		me.__74amon13__normal.style.left='-12px';
-		me.__74amon13__normal.style.top='-41px';
-		me.__74amon13.ggMarkerNormal=me.__74amon13__normal;
-		me.__74amon13.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon13);
-		me.__74amon13__active = clonedActiveElement._map_pin;
-		me.__74amon13__activeInst = clonedActiveElement;
-		me.__74amon13__active.style.visibility='hidden';
-		me.__74amon13__active.style.left='-12px';
-		me.__74amon13__active.style.top='-41px';
-		me.__74amon13.ggMarkerActive=me.__74amon13__active;
-		me.__74amon13.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon13.firstChild) {
-			me.__74amon13.insertBefore(me.__74amon13__active,me.__74amon13.firstChild);
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon11);
+		me.__74amon11__normal = clonedNormalElement._map_pin;
+		me.__74amon11__normalInst = clonedNormalElement;
+		me.__74amon11__normal.style.visibility='inherit';
+		me.__74amon11__normal.style.left='-12px';
+		me.__74amon11__normal.style.top='-41px';
+		me.__74amon11.ggMarkerNormal=me.__74amon11__normal;
+		me.__74amon11.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon11);
+		me.__74amon11__active = clonedActiveElement._map_pin;
+		me.__74amon11__activeInst = clonedActiveElement;
+		me.__74amon11__active.style.visibility='hidden';
+		me.__74amon11__active.style.left='-12px';
+		me.__74amon11__active.style.top='-41px';
+		me.__74amon11.ggMarkerActive=me.__74amon11__active;
+		me.__74amon11.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon11.firstChild) {
+			me.__74amon11.insertBefore(me.__74amon11__active,me.__74amon11.firstChild);
 		} else {
-			me.__74amon13.appendChild(me.__74amon13__active);
+			me.__74amon11.appendChild(me.__74amon11__active);
 		}
-		if (me.__74amon13.firstChild) {
-			me.__74amon13.insertBefore(me.__74amon13__normal,me.__74amon13.firstChild);
+		if (me.__74amon11.firstChild) {
+			me.__74amon11.insertBefore(me.__74amon11__normal,me.__74amon11.firstChild);
 		} else {
-			me.__74amon13.appendChild(me.__74amon13__normal);
+			me.__74amon11.appendChild(me.__74amon11__normal);
 		}
-		for (var i = 0; i < me.__74amon13.childNodes.length; i++) {
-			me.__74amon13.ggMarkerInstances.push(me.__74amon13.childNodes[i]);
+		for (var i = 0; i < me.__74amon11.childNodes.length; i++) {
+			me.__74amon11.ggMarkerInstances.push(me.__74amon11.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon5);
+		me.__74amon5__normal = clonedNormalElement._map_pin;
+		me.__74amon5__normalInst = clonedNormalElement;
+		me.__74amon5__normal.style.visibility='inherit';
+		me.__74amon5__normal.style.left='-12px';
+		me.__74amon5__normal.style.top='-41px';
+		me.__74amon5.ggMarkerNormal=me.__74amon5__normal;
+		me.__74amon5.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon5);
+		me.__74amon5__active = clonedActiveElement._map_pin;
+		me.__74amon5__activeInst = clonedActiveElement;
+		me.__74amon5__active.style.visibility='hidden';
+		me.__74amon5__active.style.left='-12px';
+		me.__74amon5__active.style.top='-41px';
+		me.__74amon5.ggMarkerActive=me.__74amon5__active;
+		me.__74amon5.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon5.firstChild) {
+			me.__74amon5.insertBefore(me.__74amon5__active,me.__74amon5.firstChild);
+		} else {
+			me.__74amon5.appendChild(me.__74amon5__active);
+		}
+		if (me.__74amon5.firstChild) {
+			me.__74amon5.insertBefore(me.__74amon5__normal,me.__74amon5.firstChild);
+		} else {
+			me.__74amon5.appendChild(me.__74amon5__normal);
+		}
+		for (var i = 0; i < me.__74amon5.childNodes.length; i++) {
+			me.__74amon5.ggMarkerInstances.push(me.__74amon5.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon30);
+		me.__74amon30__normal = clonedNormalElement._map_pin;
+		me.__74amon30__normalInst = clonedNormalElement;
+		me.__74amon30__normal.style.visibility='inherit';
+		me.__74amon30__normal.style.left='-12px';
+		me.__74amon30__normal.style.top='-41px';
+		me.__74amon30.ggMarkerNormal=me.__74amon30__normal;
+		me.__74amon30.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon30);
+		me.__74amon30__active = clonedActiveElement._map_pin;
+		me.__74amon30__activeInst = clonedActiveElement;
+		me.__74amon30__active.style.visibility='hidden';
+		me.__74amon30__active.style.left='-12px';
+		me.__74amon30__active.style.top='-41px';
+		me.__74amon30.ggMarkerActive=me.__74amon30__active;
+		me.__74amon30.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon30.firstChild) {
+			me.__74amon30.insertBefore(me.__74amon30__active,me.__74amon30.firstChild);
+		} else {
+			me.__74amon30.appendChild(me.__74amon30__active);
+		}
+		if (me.__74amon30.firstChild) {
+			me.__74amon30.insertBefore(me.__74amon30__normal,me.__74amon30.firstChild);
+		} else {
+			me.__74amon30.appendChild(me.__74amon30__normal);
+		}
+		for (var i = 0; i < me.__74amon30.childNodes.length; i++) {
+			me.__74amon30.ggMarkerInstances.push(me.__74amon30.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon22);
+		me.__74amon22__normal = clonedNormalElement._map_pin;
+		me.__74amon22__normalInst = clonedNormalElement;
+		me.__74amon22__normal.style.visibility='inherit';
+		me.__74amon22__normal.style.left='-12px';
+		me.__74amon22__normal.style.top='-41px';
+		me.__74amon22.ggMarkerNormal=me.__74amon22__normal;
+		me.__74amon22.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon22);
+		me.__74amon22__active = clonedActiveElement._map_pin;
+		me.__74amon22__activeInst = clonedActiveElement;
+		me.__74amon22__active.style.visibility='hidden';
+		me.__74amon22__active.style.left='-12px';
+		me.__74amon22__active.style.top='-41px';
+		me.__74amon22.ggMarkerActive=me.__74amon22__active;
+		me.__74amon22.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon22.firstChild) {
+			me.__74amon22.insertBefore(me.__74amon22__active,me.__74amon22.firstChild);
+		} else {
+			me.__74amon22.appendChild(me.__74amon22__active);
+		}
+		if (me.__74amon22.firstChild) {
+			me.__74amon22.insertBefore(me.__74amon22__normal,me.__74amon22.firstChild);
+		} else {
+			me.__74amon22.appendChild(me.__74amon22__normal);
+		}
+		for (var i = 0; i < me.__74amon22.childNodes.length; i++) {
+			me.__74amon22.ggMarkerInstances.push(me.__74amon22.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon4);
+		me.__74amon4__normal = clonedNormalElement._map_pin;
+		me.__74amon4__normalInst = clonedNormalElement;
+		me.__74amon4__normal.style.visibility='inherit';
+		me.__74amon4__normal.style.left='-12px';
+		me.__74amon4__normal.style.top='-41px';
+		me.__74amon4.ggMarkerNormal=me.__74amon4__normal;
+		me.__74amon4.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon4);
+		me.__74amon4__active = clonedActiveElement._map_pin;
+		me.__74amon4__activeInst = clonedActiveElement;
+		me.__74amon4__active.style.visibility='hidden';
+		me.__74amon4__active.style.left='-12px';
+		me.__74amon4__active.style.top='-41px';
+		me.__74amon4.ggMarkerActive=me.__74amon4__active;
+		me.__74amon4.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon4.firstChild) {
+			me.__74amon4.insertBefore(me.__74amon4__active,me.__74amon4.firstChild);
+		} else {
+			me.__74amon4.appendChild(me.__74amon4__active);
+		}
+		if (me.__74amon4.firstChild) {
+			me.__74amon4.insertBefore(me.__74amon4__normal,me.__74amon4.firstChild);
+		} else {
+			me.__74amon4.appendChild(me.__74amon4__normal);
+		}
+		for (var i = 0; i < me.__74amon4.childNodes.length; i++) {
+			me.__74amon4.ggMarkerInstances.push(me.__74amon4.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon21);
+		me.__74amon21__normal = clonedNormalElement._map_pin;
+		me.__74amon21__normalInst = clonedNormalElement;
+		me.__74amon21__normal.style.visibility='inherit';
+		me.__74amon21__normal.style.left='-12px';
+		me.__74amon21__normal.style.top='-41px';
+		me.__74amon21.ggMarkerNormal=me.__74amon21__normal;
+		me.__74amon21.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon21);
+		me.__74amon21__active = clonedActiveElement._map_pin;
+		me.__74amon21__activeInst = clonedActiveElement;
+		me.__74amon21__active.style.visibility='hidden';
+		me.__74amon21__active.style.left='-12px';
+		me.__74amon21__active.style.top='-41px';
+		me.__74amon21.ggMarkerActive=me.__74amon21__active;
+		me.__74amon21.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon21.firstChild) {
+			me.__74amon21.insertBefore(me.__74amon21__active,me.__74amon21.firstChild);
+		} else {
+			me.__74amon21.appendChild(me.__74amon21__active);
+		}
+		if (me.__74amon21.firstChild) {
+			me.__74amon21.insertBefore(me.__74amon21__normal,me.__74amon21.firstChild);
+		} else {
+			me.__74amon21.appendChild(me.__74amon21__normal);
+		}
+		for (var i = 0; i < me.__74amon21.childNodes.length; i++) {
+			me.__74amon21.ggMarkerInstances.push(me.__74amon21.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon10);
+		me.__74amon10__normal = clonedNormalElement._map_pin;
+		me.__74amon10__normalInst = clonedNormalElement;
+		me.__74amon10__normal.style.visibility='inherit';
+		me.__74amon10__normal.style.left='-12px';
+		me.__74amon10__normal.style.top='-41px';
+		me.__74amon10.ggMarkerNormal=me.__74amon10__normal;
+		me.__74amon10.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon10);
+		me.__74amon10__active = clonedActiveElement._map_pin;
+		me.__74amon10__activeInst = clonedActiveElement;
+		me.__74amon10__active.style.visibility='hidden';
+		me.__74amon10__active.style.left='-12px';
+		me.__74amon10__active.style.top='-41px';
+		me.__74amon10.ggMarkerActive=me.__74amon10__active;
+		me.__74amon10.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon10.firstChild) {
+			me.__74amon10.insertBefore(me.__74amon10__active,me.__74amon10.firstChild);
+		} else {
+			me.__74amon10.appendChild(me.__74amon10__active);
+		}
+		if (me.__74amon10.firstChild) {
+			me.__74amon10.insertBefore(me.__74amon10__normal,me.__74amon10.firstChild);
+		} else {
+			me.__74amon10.appendChild(me.__74amon10__normal);
+		}
+		for (var i = 0; i < me.__74amon10.childNodes.length; i++) {
+			me.__74amon10.ggMarkerInstances.push(me.__74amon10.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon20);
+		me.__74amon20__normal = clonedNormalElement._map_pin;
+		me.__74amon20__normalInst = clonedNormalElement;
+		me.__74amon20__normal.style.visibility='inherit';
+		me.__74amon20__normal.style.left='-12px';
+		me.__74amon20__normal.style.top='-41px';
+		me.__74amon20.ggMarkerNormal=me.__74amon20__normal;
+		me.__74amon20.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon20);
+		me.__74amon20__active = clonedActiveElement._map_pin;
+		me.__74amon20__activeInst = clonedActiveElement;
+		me.__74amon20__active.style.visibility='hidden';
+		me.__74amon20__active.style.left='-12px';
+		me.__74amon20__active.style.top='-41px';
+		me.__74amon20.ggMarkerActive=me.__74amon20__active;
+		me.__74amon20.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon20.firstChild) {
+			me.__74amon20.insertBefore(me.__74amon20__active,me.__74amon20.firstChild);
+		} else {
+			me.__74amon20.appendChild(me.__74amon20__active);
+		}
+		if (me.__74amon20.firstChild) {
+			me.__74amon20.insertBefore(me.__74amon20__normal,me.__74amon20.firstChild);
+		} else {
+			me.__74amon20.appendChild(me.__74amon20__normal);
+		}
+		for (var i = 0; i < me.__74amon20.childNodes.length; i++) {
+			me.__74amon20.ggMarkerInstances.push(me.__74amon20.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon3);
+		me.__74amon3__normal = clonedNormalElement._map_pin;
+		me.__74amon3__normalInst = clonedNormalElement;
+		me.__74amon3__normal.style.visibility='inherit';
+		me.__74amon3__normal.style.left='-12px';
+		me.__74amon3__normal.style.top='-41px';
+		me.__74amon3.ggMarkerNormal=me.__74amon3__normal;
+		me.__74amon3.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon3);
+		me.__74amon3__active = clonedActiveElement._map_pin;
+		me.__74amon3__activeInst = clonedActiveElement;
+		me.__74amon3__active.style.visibility='hidden';
+		me.__74amon3__active.style.left='-12px';
+		me.__74amon3__active.style.top='-41px';
+		me.__74amon3.ggMarkerActive=me.__74amon3__active;
+		me.__74amon3.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon3.firstChild) {
+			me.__74amon3.insertBefore(me.__74amon3__active,me.__74amon3.firstChild);
+		} else {
+			me.__74amon3.appendChild(me.__74amon3__active);
+		}
+		if (me.__74amon3.firstChild) {
+			me.__74amon3.insertBefore(me.__74amon3__normal,me.__74amon3.firstChild);
+		} else {
+			me.__74amon3.appendChild(me.__74amon3__normal);
+		}
+		for (var i = 0; i < me.__74amon3.childNodes.length; i++) {
+			me.__74amon3.ggMarkerInstances.push(me.__74amon3.childNodes[i]);
+		}
+		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon2);
+		me.__74amon2__normal = clonedNormalElement._map_pin;
+		me.__74amon2__normalInst = clonedNormalElement;
+		me.__74amon2__normal.style.visibility='inherit';
+		me.__74amon2__normal.style.left='-12px';
+		me.__74amon2__normal.style.top='-41px';
+		me.__74amon2.ggMarkerNormal=me.__74amon2__normal;
+		me.__74amon2.ggMarkerInstances.push(clonedNormalElement);
+		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon2);
+		me.__74amon2__active = clonedActiveElement._map_pin;
+		me.__74amon2__activeInst = clonedActiveElement;
+		me.__74amon2__active.style.visibility='hidden';
+		me.__74amon2__active.style.left='-12px';
+		me.__74amon2__active.style.top='-41px';
+		me.__74amon2.ggMarkerActive=me.__74amon2__active;
+		me.__74amon2.ggMarkerInstances.push(clonedActiveElement);
+		if (me.__74amon2.firstChild) {
+			me.__74amon2.insertBefore(me.__74amon2__active,me.__74amon2.firstChild);
+		} else {
+			me.__74amon2.appendChild(me.__74amon2__active);
+		}
+		if (me.__74amon2.firstChild) {
+			me.__74amon2.insertBefore(me.__74amon2__normal,me.__74amon2.firstChild);
+		} else {
+			me.__74amon2.appendChild(me.__74amon2__normal);
+		}
+		for (var i = 0; i < me.__74amon2.childNodes.length; i++) {
+			me.__74amon2.ggMarkerInstances.push(me.__74amon2.childNodes[i]);
 		}
 		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon1);
 		me.__74amon1__normal = clonedNormalElement._map_pin;
@@ -29597,122 +29713,6 @@ function pano2vrSkin(player,base) {
 		}
 		for (var i = 0; i < me.__74amon0.childNodes.length; i++) {
 			me.__74amon0.ggMarkerInstances.push(me.__74amon0.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon2);
-		me.__74amon2__normal = clonedNormalElement._map_pin;
-		me.__74amon2__normalInst = clonedNormalElement;
-		me.__74amon2__normal.style.visibility='inherit';
-		me.__74amon2__normal.style.left='-12px';
-		me.__74amon2__normal.style.top='-41px';
-		me.__74amon2.ggMarkerNormal=me.__74amon2__normal;
-		me.__74amon2.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon2);
-		me.__74amon2__active = clonedActiveElement._map_pin;
-		me.__74amon2__activeInst = clonedActiveElement;
-		me.__74amon2__active.style.visibility='hidden';
-		me.__74amon2__active.style.left='-12px';
-		me.__74amon2__active.style.top='-41px';
-		me.__74amon2.ggMarkerActive=me.__74amon2__active;
-		me.__74amon2.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon2.firstChild) {
-			me.__74amon2.insertBefore(me.__74amon2__active,me.__74amon2.firstChild);
-		} else {
-			me.__74amon2.appendChild(me.__74amon2__active);
-		}
-		if (me.__74amon2.firstChild) {
-			me.__74amon2.insertBefore(me.__74amon2__normal,me.__74amon2.firstChild);
-		} else {
-			me.__74amon2.appendChild(me.__74amon2__normal);
-		}
-		for (var i = 0; i < me.__74amon2.childNodes.length; i++) {
-			me.__74amon2.ggMarkerInstances.push(me.__74amon2.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon21);
-		me.__74amon21__normal = clonedNormalElement._map_pin;
-		me.__74amon21__normalInst = clonedNormalElement;
-		me.__74amon21__normal.style.visibility='inherit';
-		me.__74amon21__normal.style.left='-12px';
-		me.__74amon21__normal.style.top='-41px';
-		me.__74amon21.ggMarkerNormal=me.__74amon21__normal;
-		me.__74amon21.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon21);
-		me.__74amon21__active = clonedActiveElement._map_pin;
-		me.__74amon21__activeInst = clonedActiveElement;
-		me.__74amon21__active.style.visibility='hidden';
-		me.__74amon21__active.style.left='-12px';
-		me.__74amon21__active.style.top='-41px';
-		me.__74amon21.ggMarkerActive=me.__74amon21__active;
-		me.__74amon21.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon21.firstChild) {
-			me.__74amon21.insertBefore(me.__74amon21__active,me.__74amon21.firstChild);
-		} else {
-			me.__74amon21.appendChild(me.__74amon21__active);
-		}
-		if (me.__74amon21.firstChild) {
-			me.__74amon21.insertBefore(me.__74amon21__normal,me.__74amon21.firstChild);
-		} else {
-			me.__74amon21.appendChild(me.__74amon21__normal);
-		}
-		for (var i = 0; i < me.__74amon21.childNodes.length; i++) {
-			me.__74amon21.ggMarkerInstances.push(me.__74amon21.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon3);
-		me.__74amon3__normal = clonedNormalElement._map_pin;
-		me.__74amon3__normalInst = clonedNormalElement;
-		me.__74amon3__normal.style.visibility='inherit';
-		me.__74amon3__normal.style.left='-12px';
-		me.__74amon3__normal.style.top='-41px';
-		me.__74amon3.ggMarkerNormal=me.__74amon3__normal;
-		me.__74amon3.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon3);
-		me.__74amon3__active = clonedActiveElement._map_pin;
-		me.__74amon3__activeInst = clonedActiveElement;
-		me.__74amon3__active.style.visibility='hidden';
-		me.__74amon3__active.style.left='-12px';
-		me.__74amon3__active.style.top='-41px';
-		me.__74amon3.ggMarkerActive=me.__74amon3__active;
-		me.__74amon3.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon3.firstChild) {
-			me.__74amon3.insertBefore(me.__74amon3__active,me.__74amon3.firstChild);
-		} else {
-			me.__74amon3.appendChild(me.__74amon3__active);
-		}
-		if (me.__74amon3.firstChild) {
-			me.__74amon3.insertBefore(me.__74amon3__normal,me.__74amon3.firstChild);
-		} else {
-			me.__74amon3.appendChild(me.__74amon3__normal);
-		}
-		for (var i = 0; i < me.__74amon3.childNodes.length; i++) {
-			me.__74amon3.ggMarkerInstances.push(me.__74amon3.childNodes[i]);
-		}
-		var clonedNormalElement = new SkinElement_map_pin_Class(this,me.__74amon31);
-		me.__74amon31__normal = clonedNormalElement._map_pin;
-		me.__74amon31__normalInst = clonedNormalElement;
-		me.__74amon31__normal.style.visibility='inherit';
-		me.__74amon31__normal.style.left='-12px';
-		me.__74amon31__normal.style.top='-41px';
-		me.__74amon31.ggMarkerNormal=me.__74amon31__normal;
-		me.__74amon31.ggMarkerInstances.push(clonedNormalElement);
-		var clonedActiveElement = new SkinElement_map_pin_Class(this,me.__74amon31);
-		me.__74amon31__active = clonedActiveElement._map_pin;
-		me.__74amon31__activeInst = clonedActiveElement;
-		me.__74amon31__active.style.visibility='hidden';
-		me.__74amon31__active.style.left='-12px';
-		me.__74amon31__active.style.top='-41px';
-		me.__74amon31.ggMarkerActive=me.__74amon31__active;
-		me.__74amon31.ggMarkerInstances.push(clonedActiveElement);
-		if (me.__74amon31.firstChild) {
-			me.__74amon31.insertBefore(me.__74amon31__active,me.__74amon31.firstChild);
-		} else {
-			me.__74amon31.appendChild(me.__74amon31__active);
-		}
-		if (me.__74amon31.firstChild) {
-			me.__74amon31.insertBefore(me.__74amon31__normal,me.__74amon31.firstChild);
-		} else {
-			me.__74amon31.appendChild(me.__74amon31__normal);
-		}
-		for (var i = 0; i < me.__74amon31.childNodes.length; i++) {
-			me.__74amon31.ggMarkerInstances.push(me.__74amon31.childNodes[i]);
 		}
 		me.__16.logicBlock_visible();
 		me.__17.logicBlock_visible();
@@ -30146,46 +30146,46 @@ function pano2vrSkin(player,base) {
 			me.__74amoff31__normalInst.ggEvent_changenode();
 			me.__74amoff31__activeInst.ggEvent_changenode();
 			me.__74amon.logicBlock_visible();
-			me.__74amon8__normalInst.ggEvent_changenode();
-			me.__74amon8__activeInst.ggEvent_changenode();
-			me.__74amon7__normalInst.ggEvent_changenode();
-			me.__74amon7__activeInst.ggEvent_changenode();
-			me.__74amon24__normalInst.ggEvent_changenode();
-			me.__74amon24__activeInst.ggEvent_changenode();
-			me.__74amon6__normalInst.ggEvent_changenode();
-			me.__74amon6__activeInst.ggEvent_changenode();
+			me.__74amon310__normalInst.ggEvent_changenode();
+			me.__74amon310__activeInst.ggEvent_changenode();
+			me.__74amon31__normalInst.ggEvent_changenode();
+			me.__74amon31__activeInst.ggEvent_changenode();
+			me.__74amon210__normalInst.ggEvent_changenode();
+			me.__74amon210__activeInst.ggEvent_changenode();
 			me.__74amon23__normalInst.ggEvent_changenode();
 			me.__74amon23__activeInst.ggEvent_changenode();
-			me.__74amon11__normalInst.ggEvent_changenode();
-			me.__74amon11__activeInst.ggEvent_changenode();
-			me.__74amon22__normalInst.ggEvent_changenode();
-			me.__74amon22__activeInst.ggEvent_changenode();
-			me.__74amon5__normalInst.ggEvent_changenode();
-			me.__74amon5__activeInst.ggEvent_changenode();
-			me.__74amon20__normalInst.ggEvent_changenode();
-			me.__74amon20__activeInst.ggEvent_changenode();
-			me.__74amon30__normalInst.ggEvent_changenode();
-			me.__74amon30__activeInst.ggEvent_changenode();
-			me.__74amon4__normalInst.ggEvent_changenode();
-			me.__74amon4__activeInst.ggEvent_changenode();
-			me.__74amon10__normalInst.ggEvent_changenode();
-			me.__74amon10__activeInst.ggEvent_changenode();
-			me.__74amon12__normalInst.ggEvent_changenode();
-			me.__74amon12__activeInst.ggEvent_changenode();
+			me.__74amon7__normalInst.ggEvent_changenode();
+			me.__74amon7__activeInst.ggEvent_changenode();
+			me.__74amon6__normalInst.ggEvent_changenode();
+			me.__74amon6__activeInst.ggEvent_changenode();
 			me.__74amon13__normalInst.ggEvent_changenode();
 			me.__74amon13__activeInst.ggEvent_changenode();
+			me.__74amon12__normalInst.ggEvent_changenode();
+			me.__74amon12__activeInst.ggEvent_changenode();
+			me.__74amon11__normalInst.ggEvent_changenode();
+			me.__74amon11__activeInst.ggEvent_changenode();
+			me.__74amon5__normalInst.ggEvent_changenode();
+			me.__74amon5__activeInst.ggEvent_changenode();
+			me.__74amon30__normalInst.ggEvent_changenode();
+			me.__74amon30__activeInst.ggEvent_changenode();
+			me.__74amon22__normalInst.ggEvent_changenode();
+			me.__74amon22__activeInst.ggEvent_changenode();
+			me.__74amon4__normalInst.ggEvent_changenode();
+			me.__74amon4__activeInst.ggEvent_changenode();
+			me.__74amon21__normalInst.ggEvent_changenode();
+			me.__74amon21__activeInst.ggEvent_changenode();
+			me.__74amon10__normalInst.ggEvent_changenode();
+			me.__74amon10__activeInst.ggEvent_changenode();
+			me.__74amon20__normalInst.ggEvent_changenode();
+			me.__74amon20__activeInst.ggEvent_changenode();
+			me.__74amon3__normalInst.ggEvent_changenode();
+			me.__74amon3__activeInst.ggEvent_changenode();
+			me.__74amon2__normalInst.ggEvent_changenode();
+			me.__74amon2__activeInst.ggEvent_changenode();
 			me.__74amon1__normalInst.ggEvent_changenode();
 			me.__74amon1__activeInst.ggEvent_changenode();
 			me.__74amon0__normalInst.ggEvent_changenode();
 			me.__74amon0__activeInst.ggEvent_changenode();
-			me.__74amon2__normalInst.ggEvent_changenode();
-			me.__74amon2__activeInst.ggEvent_changenode();
-			me.__74amon21__normalInst.ggEvent_changenode();
-			me.__74amon21__activeInst.ggEvent_changenode();
-			me.__74amon3__normalInst.ggEvent_changenode();
-			me.__74amon3__activeInst.ggEvent_changenode();
-			me.__74amon31__normalInst.ggEvent_changenode();
-			me.__74amon31__activeInst.ggEvent_changenode();
 			me.__16.logicBlock_visible();
 			me.__17.logicBlock_visible();
 			me.__14.logicBlock_visible();
@@ -30471,46 +30471,46 @@ function pano2vrSkin(player,base) {
 			me.__74amoff31__normalInst.ggEvent_configloaded();
 			me.__74amoff31__activeInst.ggEvent_configloaded();
 			me.__74amon.logicBlock_visible();
-			me.__74amon8__normalInst.ggEvent_configloaded();
-			me.__74amon8__activeInst.ggEvent_configloaded();
-			me.__74amon7__normalInst.ggEvent_configloaded();
-			me.__74amon7__activeInst.ggEvent_configloaded();
-			me.__74amon24__normalInst.ggEvent_configloaded();
-			me.__74amon24__activeInst.ggEvent_configloaded();
-			me.__74amon6__normalInst.ggEvent_configloaded();
-			me.__74amon6__activeInst.ggEvent_configloaded();
+			me.__74amon310__normalInst.ggEvent_configloaded();
+			me.__74amon310__activeInst.ggEvent_configloaded();
+			me.__74amon31__normalInst.ggEvent_configloaded();
+			me.__74amon31__activeInst.ggEvent_configloaded();
+			me.__74amon210__normalInst.ggEvent_configloaded();
+			me.__74amon210__activeInst.ggEvent_configloaded();
 			me.__74amon23__normalInst.ggEvent_configloaded();
 			me.__74amon23__activeInst.ggEvent_configloaded();
-			me.__74amon11__normalInst.ggEvent_configloaded();
-			me.__74amon11__activeInst.ggEvent_configloaded();
-			me.__74amon22__normalInst.ggEvent_configloaded();
-			me.__74amon22__activeInst.ggEvent_configloaded();
-			me.__74amon5__normalInst.ggEvent_configloaded();
-			me.__74amon5__activeInst.ggEvent_configloaded();
-			me.__74amon20__normalInst.ggEvent_configloaded();
-			me.__74amon20__activeInst.ggEvent_configloaded();
-			me.__74amon30__normalInst.ggEvent_configloaded();
-			me.__74amon30__activeInst.ggEvent_configloaded();
-			me.__74amon4__normalInst.ggEvent_configloaded();
-			me.__74amon4__activeInst.ggEvent_configloaded();
-			me.__74amon10__normalInst.ggEvent_configloaded();
-			me.__74amon10__activeInst.ggEvent_configloaded();
-			me.__74amon12__normalInst.ggEvent_configloaded();
-			me.__74amon12__activeInst.ggEvent_configloaded();
+			me.__74amon7__normalInst.ggEvent_configloaded();
+			me.__74amon7__activeInst.ggEvent_configloaded();
+			me.__74amon6__normalInst.ggEvent_configloaded();
+			me.__74amon6__activeInst.ggEvent_configloaded();
 			me.__74amon13__normalInst.ggEvent_configloaded();
 			me.__74amon13__activeInst.ggEvent_configloaded();
+			me.__74amon12__normalInst.ggEvent_configloaded();
+			me.__74amon12__activeInst.ggEvent_configloaded();
+			me.__74amon11__normalInst.ggEvent_configloaded();
+			me.__74amon11__activeInst.ggEvent_configloaded();
+			me.__74amon5__normalInst.ggEvent_configloaded();
+			me.__74amon5__activeInst.ggEvent_configloaded();
+			me.__74amon30__normalInst.ggEvent_configloaded();
+			me.__74amon30__activeInst.ggEvent_configloaded();
+			me.__74amon22__normalInst.ggEvent_configloaded();
+			me.__74amon22__activeInst.ggEvent_configloaded();
+			me.__74amon4__normalInst.ggEvent_configloaded();
+			me.__74amon4__activeInst.ggEvent_configloaded();
+			me.__74amon21__normalInst.ggEvent_configloaded();
+			me.__74amon21__activeInst.ggEvent_configloaded();
+			me.__74amon10__normalInst.ggEvent_configloaded();
+			me.__74amon10__activeInst.ggEvent_configloaded();
+			me.__74amon20__normalInst.ggEvent_configloaded();
+			me.__74amon20__activeInst.ggEvent_configloaded();
+			me.__74amon3__normalInst.ggEvent_configloaded();
+			me.__74amon3__activeInst.ggEvent_configloaded();
+			me.__74amon2__normalInst.ggEvent_configloaded();
+			me.__74amon2__activeInst.ggEvent_configloaded();
 			me.__74amon1__normalInst.ggEvent_configloaded();
 			me.__74amon1__activeInst.ggEvent_configloaded();
 			me.__74amon0__normalInst.ggEvent_configloaded();
 			me.__74amon0__activeInst.ggEvent_configloaded();
-			me.__74amon2__normalInst.ggEvent_configloaded();
-			me.__74amon2__activeInst.ggEvent_configloaded();
-			me.__74amon21__normalInst.ggEvent_configloaded();
-			me.__74amon21__activeInst.ggEvent_configloaded();
-			me.__74amon3__normalInst.ggEvent_configloaded();
-			me.__74amon3__activeInst.ggEvent_configloaded();
-			me.__74amon31__normalInst.ggEvent_configloaded();
-			me.__74amon31__activeInst.ggEvent_configloaded();
 			me.__16.logicBlock_visible();
 			me.__14.logicBlock_visible();
 			me.__12.logicBlock_visible();
