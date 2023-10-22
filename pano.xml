@@ -23,7 +23,11 @@
       <hotspot skinid="ht_node" pan="-19.23" target="" description="" id="Point03" url="{node8}" tilt="-24.56" title="복도"/>
       <hotspot skinid="ht_node" pan="-98.35" target="" description="" id="Point04" url="{node18}" tilt="-15.59" title="팬트리"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -54,7 +58,11 @@
       <hotspot skinid="ht_node" pan="-107.93" target="" description="" id="Point06" url="{node18}" tilt="-1.94" title="팬트리"/>
       <hotspot skinid="ht_node" pan="-112.95" target="" description="" id="Point07" url="{node8}" tilt="-23.42" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -85,7 +93,11 @@
       <hotspot skinid="ht_node" pan="-301.87" target="" description="" id="Point06" url="{node9}" tilt="-3.38" title="주방"/>
       <hotspot skinid="ht_node" pan="-283.54" target="" description="" id="Point07" url="{node12}" tilt="-2.73" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -115,7 +127,11 @@
       <hotspot skinid="ht_node" pan="-186.77" target="" description="" id="Point05" url="{node4}" tilt="-9.54" title="욕실1"/>
       <hotspot skinid="ht_node" pan="-99.18" target="" description="" id="Point06" url="{node31}" tilt="-8.39" title="현관"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -150,7 +166,11 @@
       <hotspot skinid="ht_node" pan="-56.95" target="" description="" id="Point10" url="{node9}" tilt="-4.57" title="주방"/>
       <hotspot skinid="ht_node" pan="-101.82" target="" description="" id="Point11" url="{node7}" tilt="-29.52" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -176,7 +196,11 @@
       <hotspot skinid="ht_node" pan="-138.65" target="" description="" id="Point01" url="{node16}" tilt="-6.08" title="침실3"/>
       <hotspot skinid="ht_node" pan="-154.38" target="" description="" id="Point02" url="{node8}" tilt="-33.67" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -202,7 +226,11 @@
       <hotspot skinid="ht_node" pan="-174.05" target="" description="" id="Point01" url="{node17}" tilt="-13.36" title="파우더룸"/>
       <hotspot skinid="ht_node" pan="-149.37" target="" description="" id="Point02" url="{node11}" tilt="-13.41" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -232,7 +260,11 @@
       <hotspot skinid="ht_node" pan="-17.86" target="" description="" id="Point05" url="{node32}" tilt="-2.68" title="거실"/>
       <hotspot skinid="ht_node" pan="-348.18" target="" description="" id="Point06" url="{node21}" tilt="-8.48" title="거실"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -261,7 +293,11 @@
       <hotspot skinid="ht_node" pan="-12.65" target="" description="" id="Point04" url="{node1}" tilt="-6.03" title="거실"/>
       <hotspot skinid="ht_node" pan="-46.05" target="" description="" id="Point05" url="{node2}" tilt="-3.82" title="거실"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -293,7 +329,11 @@
       <hotspot skinid="ht_node" pan="-241.2" target="" description="" id="Point07" url="{node14}" tilt="-0.97" title="침실2"/>
       <hotspot skinid="ht_node" pan="-253.51" target="" description="" id="Point08" url="{node8}" tilt="-42.41" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -319,7 +359,11 @@
       <hotspot skinid="ht_node" pan="-10.69" target="" description="" id="Point01" url="{node20}" tilt="-4.45" title="현관"/>
       <hotspot skinid="ht_node" pan="-176.04" target="" description="" id="Point02" url="{node7}" tilt="-5.86" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -348,7 +392,11 @@
       <hotspot skinid="ht_node" pan="-72.96" target="" description="" id="Point04" url="{node12}" tilt="-11.75" title="침실1"/>
       <hotspot skinid="ht_node" pan="-89.89" target="" description="" id="Point05" url="{node8}" tilt="-7.98" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -378,7 +426,11 @@
       <hotspot skinid="ht_node" pan="-185.02" target="" description="" id="Point05" url="{node17}" tilt="-21.67" title="파우더룸"/>
       <hotspot skinid="ht_node" pan="-285.04" target="" description="" id="Point06" url="{node12}" tilt="-30.39" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -408,7 +460,11 @@
       <hotspot skinid="ht_node" pan="-161.88" target="" description="" id="Point05" url="{node7}" tilt="-9.43" title="주방"/>
       <hotspot skinid="ht_node" pan="-194.37" target="" description="" id="Point06" url="{node1}" tilt="-7.93" title="거실"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -433,7 +489,11 @@
       <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" pan="-187.9" target="" description="" id="Point01" url="{node17}" tilt="-8.15" title="파우더룸"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -461,7 +521,11 @@
       <hotspot skinid="ht_node" pan="-195.47" target="" description="" id="Point03" url="{node5}" tilt="5.09" title="욕실2"/>
       <hotspot skinid="ht_node" pan="-78.99" target="" description="" id="Point04" url="{node3}" tilt="-3" title="드레스룸"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -488,7 +552,11 @@
       <hotspot skinid="ht_node" pan="-66.98" target="" description="" id="Point02" url="{node14}" tilt="-24.72" title="침실2"/>
       <hotspot skinid="ht_node" pan="-88.05" target="" description="" id="Point03" url="{node7}" tilt="-4.76" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -515,7 +583,11 @@
       <hotspot skinid="ht_node" pan="-136.4" target="" description="" id="Point02" url="{node8}" tilt="-27.91" title="복도"/>
       <hotspot skinid="ht_node" pan="-145.57" target="" description="" id="Point03" url="{node7}" tilt="-11.43" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -543,7 +615,11 @@
       <hotspot skinid="ht_node" pan="-57.83" target="" description="" id="Point03" url="{node19}" tilt="-14.23" title="복도"/>
       <hotspot skinid="ht_node" pan="-73.3" target="" description="" id="Point04" url="{node4}" tilt="-20.89" title="욕실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -571,7 +647,11 @@
       <hotspot skinid="ht_node" pan="-182.67" target="" description="" id="Point03" url="{node4}" tilt="-25.81" title="욕실1"/>
       <hotspot skinid="ht_node" pan="-149.41" target="" description="" id="Point04" url="{node19}" tilt="-18.53" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -599,7 +679,11 @@
       <hotspot skinid="ht_node" pan="-18.37" target="" description="" id="Point03" url="{node22}" tilt="-27.76" title="복도"/>
       <hotspot skinid="ht_node" pan="-99.75" target="" description="" id="Point04" url="{node36}" tilt="-8.16" title="팬트리"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -630,7 +714,11 @@
       <hotspot skinid="ht_node" pan="-69.76" target="" description="" id="Point06" url="{node28}" tilt="-3.42" title="주방"/>
       <hotspot skinid="ht_node" pan="-84.2" target="" description="" id="Point07" url="{node30}" tilt="-1" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -661,7 +749,11 @@
       <hotspot skinid="ht_node" pan="-301.65" target="" description="" id="Point06" url="{node28}" tilt="-2.78" title="주방"/>
       <hotspot skinid="ht_node" pan="-283.49" target="" description="" id="Point07" url="{node23}" tilt="-6.76" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -691,7 +783,11 @@
       <hotspot skinid="ht_node" pan="-0.61" target="" description="" id="Point05" url="{node23}" tilt="-0.61" title="침실1"/>
       <hotspot skinid="ht_node" pan="-0.17" target="" description="" id="Point06" url="{node24}" tilt="-23.11" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -726,7 +822,11 @@
       <hotspot skinid="ht_node" pan="-171.63" target="" description="" id="Point10" url="{node31}" tilt="-8.75" title="현관"/>
       <hotspot skinid="ht_node" pan="-181.15" target="" description="" id="Point11" url="{node22}" tilt="-25.14" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -752,7 +852,11 @@
       <hotspot skinid="ht_node" pan="-140.44" target="" description="" id="Point01" url="{node39}" tilt="0.34" title="침실3"/>
       <hotspot skinid="ht_node" pan="-152.07" target="" description="" id="Point02" url="{node22}" tilt="-35.31" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -778,7 +882,11 @@
       <hotspot skinid="ht_node" pan="-175.33" target="" description="" id="Point01" url="{node33}" tilt="-11.31" title="파우더룸"/>
       <hotspot skinid="ht_node" pan="-149.12" target="" description="" id="Point02" url="{node26}" tilt="-12.02" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -808,7 +916,11 @@
       <hotspot skinid="ht_node" pan="-17.66" target="" description="" id="Point05" url="{node32}" tilt="-0.23" title="거실"/>
       <hotspot skinid="ht_node" pan="-350.35" target="" description="" id="Point06" url="{node21}" tilt="-3.96" title="거실"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -837,7 +949,11 @@
       <hotspot skinid="ht_node" pan="-332.17" target="" description="" id="Point04" url="{node36}" tilt="1.8" title="팬트리"/>
       <hotspot skinid="ht_node" pan="1.59" target="" description="" id="Point05" url="{node29}" tilt="-11.12" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -869,7 +985,11 @@
       <hotspot skinid="ht_node" pan="-249.09" target="" description="" id="Point07" url="{node24}" tilt="-36.74" title="복도"/>
       <hotspot skinid="ht_node" pan="-139.02" target="" description="" id="Point08" url="{node36}" tilt="-4.72" title="팬트리"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -895,7 +1015,11 @@
       <hotspot skinid="ht_node" pan="-10.61" target="" description="" id="Point01" url="{node31}" tilt="-2.86" title="현관"/>
       <hotspot skinid="ht_node" pan="-163.13" target="" description="" id="Point02" url="{node29}" tilt="-7.63" title="주방"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -923,7 +1047,11 @@
       <hotspot skinid="ht_node" pan="-38.82" target="" description="" id="Point03" url="{node33}" tilt="-6.71" title="파우더룸"/>
       <hotspot skinid="ht_node" pan="-20.62" target="" description="" id="Point04" url="{node26}" tilt="-9.97" title="침실1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -952,7 +1080,11 @@
       <hotspot skinid="ht_node" pan="-207.53" target="" description="" id="Point04" url="{node35}" tilt="-2.78" title="드레스룸"/>
       <hotspot skinid="ht_node" pan="-184.77" target="" description="" id="Point05" url="{node33}" tilt="-18.64" title="파우더룸"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -982,7 +1114,11 @@
       <hotspot skinid="ht_node" pan="-161.88" target="" description="" id="Point05" url="{node29}" tilt="-3.03" title="주방"/>
       <hotspot skinid="ht_node" pan="-194.63" target="" description="" id="Point06" url="{node21}" tilt="-3.56" title="거실"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1007,7 +1143,11 @@
       <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" pan="-188.35" target="" description="" id="Point01" url="{node33}" tilt="-13.56" title="파우더룸"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1035,7 +1175,11 @@
       <hotspot skinid="ht_node" pan="-187.34" target="" description="" id="Point03" url="{node34}" tilt="-16.6" title="욕실2"/>
       <hotspot skinid="ht_node" pan="-80.23" target="" description="" id="Point04" url="{node35}" tilt="-7.43" title="드레스룸"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1062,7 +1206,11 @@
       <hotspot skinid="ht_node" pan="-84.98" target="" description="" id="Point02" url="{node24}" tilt="-17.07" title="복도"/>
       <hotspot skinid="ht_node" pan="-69.34" target="" description="" id="Point03" url="{node37}" tilt="-18.21" title="침실2"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1089,7 +1237,11 @@
       <hotspot skinid="ht_node" pan="-141.06" target="" description="" id="Point02" url="{node29}" tilt="-6.64" title="주방"/>
       <hotspot skinid="ht_node" pan="-135.88" target="" description="" id="Point03" url="{node24}" tilt="-28.85" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1117,7 +1269,11 @@
       <hotspot skinid="ht_node" pan="-73.33" target="" description="" id="Point03" url="{node41}" tilt="-14.01" title="욕실1"/>
       <hotspot skinid="ht_node" pan="-60.82" target="" description="" id="Point04" url="{node22}" tilt="-8.29" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
@@ -1145,7 +1301,11 @@
       <hotspot skinid="ht_node" pan="-183.91" target="" description="" id="Point03" url="{node41}" tilt="-25.39" title="욕실1"/>
       <hotspot skinid="ht_node" pan="-146.03" target="" description="" id="Point04" url="{node22}" tilt="-18.25" title="복도"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound pan="-1.000" pansize="10.000" level="1.000" id="_background" nodechangekeep="1" mode="0" tiltsize="10.000" startmutedmobile="0" loop="5" ambientlevel="0.000" field="90.000" tilt="-1.000">
+        <source url="media/SellBuyMusic -  .mp3"/>
+      </sound>
+    </media>
     <transition softedge="0" zoomafterinfov="140" delay="none" blendcolor="0x000000" zoomafteroutfov="40" zoomout="0" zoomin="0" zoomfov="40" blendtime="1" zoomspeed="2" enabled="1" zoomoutpause="1" type="crossdissolve"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
     <control simulatemass="1" lockedwheel="0" speedwheel="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" dblclickfullscreen="0" contextvr="1" contextfullscreen="1" contextprojections="0" sensitivity="8" rubberband="0" hideabout="0" invertcontrol="1"/>
