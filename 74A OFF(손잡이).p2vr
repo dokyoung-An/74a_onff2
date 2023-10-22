@@ -218,7 +218,7 @@
         <altitude>-10000</altitude>
         <description>1층</description>
         <information>74A</information>
-        <comment>거실1</comment>
+        <comment>거실</comment>
       </userdata>
       <projectsettings>
         <userdata>
@@ -3987,7 +3987,7 @@
         <title>거실</title>
         <description>1층</description>
         <information>74A</information>
-        <comment>거실1</comment>
+        <comment>거실</comment>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -4479,7 +4479,7 @@
         <title>복도</title>
         <description>1층</description>
         <information>74A</information>
-        <comment>복도1</comment>
+        <comment>복도</comment>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -5160,7 +5160,7 @@
       <userdata>
         <customprops/>
         <capturedatetime>2023-10-11T09:15:24</capturedatetime>
-        <tags>가구없음</tags>
+        <tags>가구있음</tags>
         <title>욕실2</title>
         <altitude>-10000</altitude>
         <description>1층</description>
@@ -6060,7 +6060,7 @@
         <altitude>-10000</altitude>
         <description>1층</description>
         <information>74A</information>
-        <comment>침실1-1</comment>
+        <comment>침실1</comment>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -6900,7 +6900,7 @@
         <title>침실2</title>
         <description>1층</description>
         <information>74A</information>
-        <comment>침실2-1</comment>
+        <comment>침실2</comment>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -7042,7 +7042,7 @@
         <altitude>-10000</altitude>
         <description>1층</description>
         <information>74A</information>
-        <comment>침실2-2</comment>
+        <comment>침실2-1</comment>
       </userdata>
       <floorplans/>
       <hotspots>
